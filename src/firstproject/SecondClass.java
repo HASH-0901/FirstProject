@@ -9,6 +9,5 @@ package firstproject;
  * @author hash0
  */
 public class SecondClass {
-    //gjfy
     
 }
